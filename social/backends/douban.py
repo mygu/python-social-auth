@@ -1,3 +1,5 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 """
 Douban OAuth1 and OAuth2 backends, docs at:
     http://psa.matiasaguirre.net/docs/backends/douban.html

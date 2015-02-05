@@ -1,5 +1,5 @@
-#coding:utf8
-# author:duoduo3369@gmail.com  https://github.com/duoduo369
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 """
 Baidu OAuth2 backend, docs at:
 """

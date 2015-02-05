@@ -1,5 +1,5 @@
-#coding:utf8
-# author:hepochen@gmail.com  https://github.com/hepochen
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 """
 Weibo OAuth2 backend, docs at:
     http://psa.matiasaguirre.net/docs/backends/weibo.html
